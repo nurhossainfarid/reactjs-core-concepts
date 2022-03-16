@@ -45,3 +45,11 @@
   border: 2px solid orange;
   border-radius: 10px;
 }
+.abid-style {
+  background-color: rgb(115, 255, 0);
+  color: rgb(247, 33, 33);
+  margin: 30px;
+  padding: 10px;
+  border: 2px solid rgb(255, 0, 64);
+  border-radius: 10px;
+}
