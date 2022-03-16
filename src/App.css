@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.farid-style {
+  background-color: cyan;
+  color: rgb(255, 174, 0);
+  margin: 30px;
+  padding: 10px;
+  border: 2px solid orange;
+  border-radius: 10px;
+}
